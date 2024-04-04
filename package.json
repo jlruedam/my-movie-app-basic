@@ -1,0 +1,11 @@
+{
+  "name": "my-movie-app-basic",
+  "version": "1.0.0",
+  "description": "Sitio creado en la práctica del curso Platzi-Curso de API REST con Javascript: Ejemplos con APIs reales",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
