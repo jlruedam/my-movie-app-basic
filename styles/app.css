@@ -225,7 +225,7 @@ button {
 }
 
 .category-title::before {
-  content: 'â€¢â€¢â€¢â€¢';
+  content: 'â€';
   color: transparent;
   /* TODO: cambiar color por ID de la categorÃ­a */
   background-color: var(--idColor);
